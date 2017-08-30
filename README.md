@@ -1,4 +1,5 @@
 # Hypercerts: Blockcerts Revocation Improvements
+[![alt text][inProgressBadge]](https://github.com/blockchain-certificates/revocation)
 
 **By [João Santos, Instituto Superior Técnico](https://github.com/joaosantos15)**
 
@@ -66,3 +67,4 @@ The verifier starts by retrieving the *Revocation Rules file *and the ID of the 
 
 At this point, one of two things can occur, either the revocation proofs are enough to consider the certificate revoked (figure on top) and the verifier considers the certificate not to be valid, or there are not enough proofs for the certificate to be considered revoked (figure on the bottom) and the verifier considers the certificate valid.
 
+[inProgressBadge]: https://img.shields.io/badge/In_Progress--yellow.svg
