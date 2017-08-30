@@ -24,7 +24,7 @@ After the creation of the smart-contract and revocation policy file, URIs to the
 
 At this point, the certificate is signed and issued in the Bitcoin blockchain.
 
-## ![image alt text](image_0.jpg)
+## ![](https://user-images.githubusercontent.com/10178757/29876393-91039232-8d94-11e7-908a-07aebfed5f6e.jpg)
 
 ### Revocation Status and Revocation Proofs
 
@@ -58,7 +58,7 @@ In the Blockcerts ecosystem, there are several verification steps to validate a 
 
 To understand how revocation verification is carried on, let’s assume a scenario where two certificates, *Certificate A* and *Certificate B*, require both the Issuer and the Receiver.
 
-![image alt text](image_1.jpg)
+![](https://user-images.githubusercontent.com/10178757/29876402-94893c68-8d94-11e7-9ea0-57635464ed63.jpg)
 
 The verifier starts by retrieving the *Revocation Rules file *and the ID of the Ethereum smart contract responsible for keeping track of the revocation proofs for that batch, both of which can be found directly on the certificate. From there the verifier checks the smart-contract for the link to the latest revocation proofs file and then it checks the file for the required proofs. 
 
