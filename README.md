@@ -1,8 +1,6 @@
-Hypercerts
+Hypercerts: Blockcerts Revocation Improvements
 
-Revocation Proposal
-
-*This is a proposal for an architecture of certificate revocation using Ethereum smart-contracts and it follows the "Hypercerts Thesis Proposal".*
+*This is a proposal for an architecture of certificate revocation using Ethereum smart-contracts and it follows the ["Hypercerts Thesis Proposal"](https://github.com/joaosantos15/hypercerts/blob/master/Hypercerts_project.pdf).*
 
 ## Intro
 
